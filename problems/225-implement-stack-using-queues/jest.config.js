@@ -1,8 +1,8 @@
 export default {
-  testEnvironment: "node",
+  testEnvironment: 'node',
   transform: {},
-  testMatch: ["**/*.test.js"],
+  testMatch: ['**/*.test.js'],
   collectCoverage: true,
-  coverageDirectory: "coverage",
-  coveragePathIgnorePatterns: ["/node_modules/", "/dist/"],
+  coverageDirectory: 'coverage',
+  coveragePathIgnorePatterns: ['/node_modules/', '/dist/'],
 };
