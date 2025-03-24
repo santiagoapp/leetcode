@@ -1,5 +1,5 @@
 {
-  "name": "225-implement-stack-using-queues",
+  "name": "232-implement-queue-using-stacks",
   "version": "1.0.0",
   "main": "src/index.js",
   "type": "module",
